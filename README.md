@@ -8,8 +8,8 @@ I'm a Computer Science student building full-stack and backend-focused projects 
 - Strengthening Linux and security fundamentals
 
 ## Featured Projects
-- **inventory-lite-web** — Full-stack inventory tracking web app (Python, SQL, REST APIs)
-- **inventory-lite** — Backend-focused inventory management project
+- **mountory-inventory** — Full-stack inventory tracking web app (Python, SQL, REST APIs)
+- **ChessChamps** — Browser based chest game written in Java
 - **portfolio** — Personal website showcasing my projects and frontend skills
 
 ## Links
