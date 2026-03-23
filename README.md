@@ -13,5 +13,5 @@ I'm a Computer Science student building full-stack and backend-focused projects 
 - **portfolio** — Personal website showcasing my projects and frontend skills
 
 ## Links
-- Portfolio: [https://maxw125.github.io/portfolio/](https://maxw125.github.io/portfolio/)
+- Portfolio: https://maxw125.github.io/Portfolio/
 - LinkedIn: [https://linkedin.com/in/your-profile](http://www.linkedin.com/in/max-westmoreland-834570226)
