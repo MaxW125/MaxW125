@@ -11,10 +11,10 @@ I'm a software engineer in Austin. I graduated from Texas State in August 2026 w
 
 ## Right now
 
-Studying for the AWS Solutions Architect – Associate exam and looking for my first full-time software engineering role.
+I'm a software engineer at Drivia, where I clean up and secure AI-generated codebases and build new features. 
 
 ## Links
 
 - Portfolio: [maxw125.github.io/Portfolio](https://maxw125.github.io/Portfolio/)
-- LinkedIn: [max-westmoreland](https://www.linkedin.com/in/max-westmoreland-834570226)
+- LinkedIn: [max-westmoreland](https://www.linkedin.com/in/maxwestmoreland)
 - Email: mw.maxwestmoreland@gmail.com
